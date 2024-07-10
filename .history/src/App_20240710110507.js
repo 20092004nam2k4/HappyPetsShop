@@ -7,7 +7,7 @@ const App = () => {
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
-        {/* Thêm các tuyến đường khác nếu cần */}
+      
       </Routes>
     </Router>
   );
